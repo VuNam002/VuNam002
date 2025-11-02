@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Nam Vu</h1>
 <p align="center">
-  💻 Full-Stack Developer | React & Node.js Enthusiast | IT Student from Viet Nam
+  Full-Stack Developer | React & Node.js Enthusiast | IT Student from Viet Nam
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VuNam002&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors"/>
@@ -9,14 +9,14 @@
 ---
 
 ## 🚀 About Me
-- 🎓 I'm an **Information Technology student** who loves both **Frontend and Backend development**.  
-- 💡 Passionate about **building modern web applications** with great UX/UI and solid architecture.  
-- 🧰 Experienced in **React, Node.js, Express, and C# (ASP.NET)**.  
-- 📫 Contact me via **namvu7702@gmail.com**
+-  I'm an **Information Technology student** who loves both **Frontend and Backend development**.  
+-  Passionate about **building modern web applications** with great UX/UI and solid architecture.  
+-  Experienced in **React, Node.js, Express, and C# (ASP.NET)**.  
+-  Contact me via **namvu7702@gmail.com**
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <strong>Frontend:</strong>
@@ -46,44 +46,44 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🛒 [TechZone](https://github.com/VuNam002/TechZone)
+###  [TechZone](https://github.com/VuNam002/TechZone)
 > E-commerce website built with:  
 > <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>  
 > Features product filtering, pagination, sorting, and responsive design.
 
 ---
 
-### 📝 [Task Management](https://github.com/VuNam002/Task-Management)
+###  [Task Management](https://github.com/VuNam002/Task-Management)
 > A simple task management app made with:  
 > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>  
 > Supports adding, editing, deleting, and searching tasks efficiently.
 
 ---
 
-### 🧩 [XshopNew](https://github.com/VuNam002/XshopNew)
+###  [XshopNew](https://github.com/VuNam002/XshopNew)
 > Shop template project using:  
 > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white"/>  
 > Focused on clean code and reusable components.
 
 ---
 
-### ☕ [CaffePOS](https://github.com/VuNam002/caffePOS)
+###  [CaffePOS](https://github.com/VuNam002/caffePOS)
 > Coffee shop management system developed with:  
 > <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/>  
 > Handles order management, user authentication, and sales reports.
 
 ---
 
-### 🧰 [Owen](https://github.com/VuNam002/Owen)
+###  [Owen](https://github.com/VuNam002/Owen)
 > Frontend project built with:  
 > <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>  
 > Focus on component structure and performance optimization.
 
 ---
 
-### 🧠 [Deep Learning](https://github.com/VuNam002/Deep-learning)
+###  [Deep Learning](https://github.com/VuNam002/Deep-learning)
 > Practice repository for Deep Learning models using:  
 > <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
 > Includes basic neural network implementations and visualizations.
