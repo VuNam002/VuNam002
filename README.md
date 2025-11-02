@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 -  I'm an **Information Technology student** who loves both **Frontend and Backend development**.  
 -  Passionate about **building modern web applications** with great UX/UI and solid architecture.  
 -  Experienced in **React, Node.js, Express, and C# (ASP.NET)**.  
@@ -98,14 +98,14 @@
 
 ---
 
-## 🔥 Streak & Contributions
+##  Streak & Contributions
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VuNam002&theme=radical&hide_border=true&border_radius=10" width="70%">
 </p>
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="mailto:namvu7702@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
