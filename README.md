@@ -15,7 +15,7 @@
 ## 🧠 Tech Stack
 | Frontend | Backend | Tools & Others |
 |-----------|----------|----------------|
-| React, Vite, TypeScript, TailwindCSS | Node.js, Express | Git, Figma, VS Code, MongoDB |
+| React, Vite, TypeScript, TailwindCSS | Node.js, Express, ASP.NET | Git, Figma, VS Code, MongoDB, SQL server |
 
 ---
 
@@ -29,6 +29,8 @@
 
 ### 💉 [Diabetes Prediction](https://github.com/VuNam002/-diabetes-prediction)
 > Machine Learning mini project predicting diabetes from health data.
+
+###
 
 ---
 
