@@ -2,23 +2,23 @@
 
 <h1 align="center">👋 Hi, I'm Nam Vu</h1>
 <p align="center">
-  💻 Frontend Developer | React Enthusiast | IT Student from Viet Nam
+  💻 Full-Stack Developer | React & Node.js Enthusiast | IT Student from Viet Nam
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 I'm an IT student passionate about **Frontend Development**.
-- 🌱 Currently learning **React, TypeScript, and Backend (Node.js, Express)**.
-- 💡 Love solving problems & building web apps with great UX/UI.
-- 📫 Reach me at: **namvu7702@gmail.com**
+- 🎓 I'm an **Information Technology student** who loves both **Frontend and Backend development**.  
+- 💡 Passionate about **building modern web applications** with great UX/UI and solid architecture.  
+- 🧰 Experienced in **React, Node.js, Express, and C# (ASP.NET)**.  
+- 📫 Contact me via **namvu7702@gmail.com**
 
 ---
 
 ## 🧠 Tech Stack
 | Frontend | Backend | Tools & Others |
 |-----------|----------|----------------|
-| React, Vite, TypeScript, TailwindCSS | Node.js, Express | Git, Figma, VS Code, MongoDB, Pug |
+| React, Vite, TypeScript, TailwindCSS | Node.js, Express, ASP.NET, C# | Git, MongoDB, Figma, VS Code, Pug |
 
 ---
 
@@ -26,37 +26,37 @@
 
 ### 🛒 [TechZone](https://github.com/VuNam002/TechZone)
 > E-commerce website built with **React + TypeScript + TailwindCSS**.  
-> Includes filtering, pagination, sorting, and responsive UI.
+> Features product filtering, pagination, sorting, and responsive design.
 
 ---
 
 ### 📝 [Task Management](https://github.com/VuNam002/Task-Management)
-> Task management web app with **vanilla JavaScript**.  
-> Supports adding, editing, deleting, and searching tasks.
+> A simple task management app made with **vanilla JavaScript**.  
+> Supports adding, editing, deleting, and searching tasks efficiently.
 
 ---
 
 ### 🧩 [XshopNew](https://github.com/VuNam002/XshopNew)
-> Shop template project built with **JavaScript + Pug**.  
-> Focus on layout rendering and modularized frontend structure.
+> Shop template project using **JavaScript + Pug** for UI rendering.  
+> Focused on clean code and reusable components.
 
 ---
 
 ### ☕ [CaffePOS](https://github.com/VuNam002/caffePOS)
-> Coffee shop management system written in **C# (.NET)**.  
-> Handles order management, user authentication, and reports.
+> Coffee shop management system developed with **C# (.NET)**.  
+> Handles order management, user authentication, and sales reports.
 
 ---
 
 ### 🧰 [Owen](https://github.com/VuNam002/Owen)
-> Modern frontend project using **TypeScript + modular structure**.  
-> Focus on reusable UI components and clean codebase.
+> Frontend project built with **TypeScript** following modular and reusable architecture.  
+> Focus on component structure and performance optimization.
 
 ---
 
 ### 🧠 [Deep Learning](https://github.com/VuNam002/Deep-learning)
-> Practice repository for **Deep Learning models with Python**.  
-> Includes neural network basics and data visualization notebooks.
+> Practice repository for **Deep Learning models using Python**.  
+> Includes basic neural network implementations and visualizations.
 
 ---
 
