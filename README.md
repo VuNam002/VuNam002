@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Nam Vu</h1>
 <p align="center">
-  Full-Stack Developer | React & Node.js Enthusiast | IT Student from Viet Nam
+   Full-Stack Developer | React & Node.js Enthusiast | IT Student from Viet Nam
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VuNam002&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors"/>
@@ -16,7 +16,7 @@
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <p align="center">
   <strong>Frontend:</strong>
@@ -35,10 +35,11 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 <p align="center">
-  <strong>Tools & Others:</strong>
+  <strong>Tools & Databases:</strong>
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white"/>
@@ -71,7 +72,7 @@
 
 ###  [CaffePOS](https://github.com/VuNam002/caffePOS)
 > Coffee shop management system developed with:  
-> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/>  
+> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>  
 > Handles order management, user authentication, and sales reports.
 
 ---
@@ -90,7 +91,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VuNam002&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuNam002&layout=compact&theme=radical&hide_border=true&border_radius=10" width="48%">
