@@ -51,7 +51,6 @@
 
 ###  [TechZone](https://github.com/VuNam002/TechZone)
 > E-commerce website built with:  
-> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>  
 > Features product filtering, pagination, sorting, and responsive design.
 
 ---
@@ -65,7 +64,6 @@
 
 ###  [XshopNew](https://github.com/VuNam002/XshopNew)
 > Shop template project using:  
-> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white"/>  
 > Focused on clean code and reusable components.
 
 ---
@@ -78,8 +76,7 @@
 ---
 
 ###  [Owen](https://github.com/VuNam002/Owen)
-> Frontend project built with:  
-> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>  
+> Fullstack project built with:  
 > Focus on component structure and performance optimization.
 
 ---
