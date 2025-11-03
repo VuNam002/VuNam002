@@ -68,7 +68,7 @@
 
 ---
 
-###  [CaffePOS](https://github.com/VuNam002/caffePOS)
+###  [CaffePOST](https://github.com/VuNam002/caffePOS)
 > Coffee shop management system developed with:  
 > <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>  
 > Handles order management, user authentication, and sales reports.
